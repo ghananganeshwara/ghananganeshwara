@@ -19,12 +19,64 @@ Right now, I’m focused on:
 ---
 
 ## ⚡ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C](https://img.shields.io/badge/C-blue)
+![Java](https://img.shields.io/badge/Java-red)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+
+---
+
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Python](https://img.shields.io/badge/Python-blue)
+![React](https://img.shields.io/badge/React-cyan)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-skyblue)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+
+---
+
+### 🧠 Backend & APIs
+![Flask](https://img.shields.io/badge/Flask-black)
+![REST API](https://img.shields.io/badge/REST-API-lightgrey)
+![GraphQL](https://img.shields.io/badge/GraphQL-pink)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-orange)
+![S3](https://img.shields.io/badge/S3-orange)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black)
+
+---
+
+### 🧪 Testing & QA
+![Pytest](https://img.shields.io/badge/Pytest-green)
+![Cypress](https://img.shields.io/badge/Cypress-black)
+![Jest](https://img.shields.io/badge/Jest-red)
+![Postman](https://img.shields.io/badge/Postman-orange)
+
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![SQLite](https://img.shields.io/badge/SQLite-lightgrey)
+
+---
+
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-black)
+![GitHub](https://img.shields.io/badge/GitHub-black)
 ![Linux](https://img.shields.io/badge/Linux-yellow)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue)
+![Figma](https://img.shields.io/badge/Figma-pink)
+![Notion](https://img.shields.io/badge/Notion-black)
+
 
 ---
 
