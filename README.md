@@ -1,7 +1,7 @@
 # Hi, I'm Ghanan 👋
 
-🎓 Computer Information Technology student at CSUN  
-💻 Interested in software engineering, cloud, and automation  
+🎓 Computer Science student at CSUN  
+💻 Interested in software engineering, IT Operations, cloud, and automation  
 🔗 LinkedIn: (www.linkedin.com/in/ghanan-ganeshwara-5b05742a5)
 
 ---
@@ -95,4 +95,4 @@ Right now, I’m focused on:
 ---
 
 ## 🤝 Let’s Connect
-I’m open to internships, collaborations, and learning opportunities.
+I’m open to jobs, collaborations, and learning opportunities.
