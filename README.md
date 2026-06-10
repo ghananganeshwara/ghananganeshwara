@@ -11,9 +11,9 @@ I enjoy building practical, real-world projects and learning how systems work un
 I’m especially interested in backend development, cloud infrastructure, and automation workflows.
 
 Right now, I’m focused on:
-- Full-Stack Web Development
+- IT Operations
 - Cloud & DevOps fundamentals
-- API development and testing
+- CyberSecurity
 - Writing clean, maintainable code
 
 ---
